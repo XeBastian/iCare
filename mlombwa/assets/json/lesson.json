@@ -1,0 +1,429 @@
+[
+  {
+    "subjectID": "989 CS 78",
+    "subjectName": "Artificial Intelligence",
+    "aboutSubject" : "This is the About Section of the Subject",
+    "subjectImages": [
+      "https://admincp.semicolon-ltd.com/images/article/24/Human-Intelligence-Can-Fix-AI-Shortcomings-1.jpg",
+      "https://www.ukrgate.com/eng/wp-content/uploads/2021/05/Scientists-Have-Come-Close-to-Creating-Artificial-Intelligence-Similar-to-Human1.jpg",
+      "https://www.softwareone.com/-/media/global/social-media-and-blog/hero/implementing-artificial-intelligence-part-1-hero.jpg?rev=56ebf75efd06466786861433a1cae008&sc_lang=is-is&hash=FCEE6A1017F4995A594412FBF2E748DA",
+      "https://www.teachingtimes.com/wp-content/uploads/2021/12/AI3.jpg",
+      "https://judi.ai/wp-content/uploads/2021/09/3.jpg"
+    ],
+    "status": false,
+
+    "resources": [
+      {
+        "resourceName": "AI Basics",
+        "resourceUrl": "https://www.simplilearn.com/learn-ai-basics-skillup",
+        "resourceType": "Course"
+
+      }, {
+        "resourceName": "Python Programming",
+        "resourceUrl": "https://www.pdfdrive.com/download.pdf?id=168776616&h=4f154daafe4ad5fc8edab88d9a5f57d7&u=cache&ext=pdf",
+        "resourceType": "PDF"
+
+      },{
+        "resourceName": "Artificial Intelligence",
+        "resourceUrl": "https://www.youtube.com/watch?v=0Syf0Gf3rGA",
+        "resourceType": "Video"
+
+      }
+    ],
+    "lessons": [
+      {
+        "lessonData": {
+          "name": "Developing AI Models",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.simplilearn.com/free-course-on-machine-learning-with-r-skillup?referrer=search&tag=developing%20AI"
+        }
+      },
+      {
+        "lessonData": {
+          "name": "Python Programming",
+          "duration": "21 Hours",
+          "description": "Learning Python Programming Language",
+          "lessonLink":"https://www.simplilearn.com/learn-python-basics-free-course-skillup?referrer=search-dropdown&term=python"
+        }
+      },{
+        "lessonData": {
+          "name": "Javascript for Development",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink" : "https://www.simplilearn.com/learn-javascript-basics-free-course-skillup?referrer=search&tag=javascript"
+        }
+      },{
+        "lessonData": {
+          "name": "Understading DOM",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"
+        }
+      },{
+        "lessonData": {
+          "name": "Tensorflow Lite",
+          "duration": "29 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.simplilearn.com/learn-tensorflow-basics-free-course-skillup?referrer=search-dropdown&term=tensor"
+        }
+      }
+    ]
+  },
+  {
+    "subjectID": "212 CS 8",
+    "subjectName": "Quantum Computing",
+    "aboutSubject" : "This is the About Section of the Subject Quantum Computing",
+    "status": false,
+    "subjectImages": [
+       "https://cdn.mos.cms.futurecdn.net/g84icgJSVZXbib7BxPpMJB.jpg",
+      "https://www.fujitsu.com/global/imagesgig5/topics008_tcm100-5558919_tcm100-2750236-32.png",
+      "https://scitechdaily.com/images/Quantum-Computing-Concept-777x389.jpg",
+      "https://a.storyblok.com/f/126832/740x416/96e36afcb8/quantum-computers-calculating-the-unimaginable-teaser.jpg",
+      "https://media.wired.co.uk/photos/606da2e35b10d6006e4b21a2/1:1/w_2000,h_2000,c_limit/quantum-computing-hero.jpg"
+    ],
+    "resources": [
+      {
+        "resourceName": "AI Basics",
+        "resourceUrl": "https://www.simplilearn.com/learn-ai-basics-skillup",
+        "resourceType": "Course"
+
+      }, {
+        "resourceName": "Python Programming",
+        "resourceUrl": "https://www.pdfdrive.com/download.pdf?id=168776616&h=4f154daafe4ad5fc8edab88d9a5f57d7&u=cache&ext=pdf",
+        "resourceType": "PDF"
+
+      },{
+        "resourceName": "Artificial Intelligence",
+        "resourceUrl": "https://www.youtube.com/watch?v=0Syf0Gf3rGA",
+        "resourceType": "Video"
+
+      }
+    ],
+    "lessons": [
+      {
+        "lessonData": {
+          "name": "Quantum Models",
+          "duration": "12 Hours",
+          "description": "This is how we Develop the Quantum Models with Open CV",
+          "lessonLink": "https://www.freecodecamp.org/news/an-introduction-to-q-64beaff53a00/"
+        }
+      },{
+        "lessonData": {
+          "name": "Physics",
+          "duration": "3 Hours",
+          "description": "Quantum Physics",
+          "lessonLink": "https://www.edx.org/course/boltzmann-law-physics-to-computing"
+        }
+      },{
+        "lessonData": {
+          "name": "Novice to Advanced Mechanics",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/quantum-mechanics-for-scientists-and-engineers-1"
+
+        }
+      },{
+        "lessonData": {
+          "name": "CS 50",
+          "duration": "19 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=4cdaf18c53e799b5aee503a6b0143132&position=1"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Understanding BlockChain Technology",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/blockchain-technology?index=product&queryID=ffb4d713280943a290169e7788f691d8&position=1"
+        }
+      }
+    ]
+  },
+  {
+    "subjectID": "989 CS 78",
+    "subjectName": "Multimedia Science",
+    "aboutSubject" : "This is the About Section of the Subject",
+    "status": false,
+    "subjectImages": [
+      "https://www.tutorialspoint.com/basics_of_computer_science/images/computer_multimedia.jpg",
+      "https://www.disi.unitn.it/file/disi/multimedia_bannerin_880x260.jpg",
+      "https://www.iaea.org/sites/default/files/styles/photo_essay_photo__810x540_/public/photoessays/2015/health.jpg?itok=FfXWnE3C",
+      "https://www.houstonforensicscience.org/wp-content/uploads/2021/10/5800fa09KqlEx6bf2c9.jpg"
+    ],
+    "resources": [
+      {
+        "resourceName": "AI Basics",
+        "resourceUrl": "https://www.simplilearn.com/learn-ai-basics-skillup",
+        "resourceType": "Course"
+
+      }, {
+        "resourceName": "Python Programming",
+        "resourceUrl": "https://www.pdfdrive.com/download.pdf?id=168776616&h=4f154daafe4ad5fc8edab88d9a5f57d7&u=cache&ext=pdf",
+        "resourceType": "PDF"
+
+      },{
+        "resourceName": "Artificial Intelligence",
+        "resourceUrl": "https://www.youtube.com/watch?v=0Syf0Gf3rGA",
+        "resourceType": "Video"
+
+      }
+    ],
+    "lessons": [
+      {
+        "lessonData": {
+          "name": "Music",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/introduction-to-music-theory-2?index=product&queryID=5d3cd6799ca023d4501aeb51c8993f81&position=1"
+        }
+      },{
+        "lessonData": {
+          "name": "Video Shooting",
+          "duration": "21 Hours",
+          "description": "Learning Python Programming Language",
+          "lessonLink": "https://www.edx.org/course/video_for_content_creators?index=product&queryID=a202aafd4c41941befc101097ea51926&position=1"
+        }
+      },{
+        "lessonData": {
+          "name": "Photography for Beginners",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://youtu.be/FfY4C3hb0SM"
+        }
+      },{
+        "lessonData": {
+          "name": "Blurring",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.youtube.com/watch?v=r9zJYHXhuII"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Lightroom Effects",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.youtube.com/watch?v=oFFVt0JXN0Q"
+
+        }
+      }
+    ]
+  },
+  {
+    "subjectID": "121 CS 8",
+    "subjectName": "Space Physics",
+    "aboutSubject" : "This is the About Section of the Subject Space Physics",
+    "status": false,
+    "subjectImages": [
+      "https://www.researchgate.net/profile/Kirk-Borne/publication/220390160/figure/fig1/AS:277325376704513@1443130930451/Space-physics-and-Earth-science-missions.png",
+      "https://physics.montana.edu/research/spacescience/images/front%20end.jpg",
+      "http://www.augsburg.edu/physics/wp-content/uploads/sites/60/2014/04/magnetosphere.png",
+      "https://nap.nationalacademies.org/openbook/0309093252/xhtml/images/p2000b1f8g6001.jpg"
+    ],
+    "resources": [
+      {
+        "resourceName": "AI Basics",
+        "resourceUrl": "https://www.simplilearn.com/learn-ai-basics-skillup",
+        "resourceType": "Course"
+
+      }, {
+        "resourceName": "Python Programming",
+        "resourceUrl": "https://www.pdfdrive.com/download.pdf?id=168776616&h=4f154daafe4ad5fc8edab88d9a5f57d7&u=cache&ext=pdf",
+        "resourceType": "PDF"
+
+      },{
+        "resourceName": "Artificial Intelligence",
+        "resourceUrl": "https://www.youtube.com/watch?v=0Syf0Gf3rGA",
+        "resourceType": "Video"
+
+      }
+    ],
+    "lessons": [
+      {
+        "lessonData": {
+          "name": "Astronomy",
+          "duration": "12 Hours",
+          "description": "This is how we Develop the Quantum Models with Open CV",
+          "lessonLink": "https://www.coursera.org/learn/astro"
+        }
+      },{
+        "lessonData": {
+          "name": "Kinetics",
+          "duration": "3 Hours",
+          "description": "Fundamentals of Physics",
+          "lessonLink": "https://www.coursera.org/learn/spacecraft-dynamics-kinetics"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Novice to Advanced Spacer",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/introduction-to-aerospace-engineering-astronautics?index=product&queryID=280bf263bdfc171f5c820dfe5d9a885d&position=1"
+        }
+      },{
+        "lessonData": {
+          "name": "Its the Galaxy",
+          "duration": "19 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/introduction-to-astrophysics?index=product&queryID=793d35dea2165d76a2d821b7b9a2571f&position=1"
+        }
+      },{
+        "lessonData": {
+          "name": "Radio Sky: Observations",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.edx.org/course/radio-sky-1?index=product&queryID=c5a0b44ab67c24ab2cf4b67aba70f473&position=1"
+        }
+      }
+    ]
+  },
+  {
+    "subjectID": "12 CS 33",
+    "subjectName": "UI/UX",
+    "aboutSubject" : "User Interface Designing",
+    "status": false,
+    "subjectImages": [
+       "https://www.mydailygraphics.com/wp-content/uploads/2021/11/Graphic-Designing1.jpg",
+      "https://www.aasansolution.com/wp-content/uploads/2019/10/our-graphic-design-services-500x500.png",
+      "https://5.imimg.com/data5/SELLER/Default/2020/9/FC/VL/SV/63670856/graphic-design-service-500x500.png",
+      "https://black-tiger-advertising.co.uk/wp-content/uploads/2020/02/What-we-give-image-1-1024x853-1.png",
+      "https://logotis.com/wp-content/uploads/2020/12/image1.jpg"
+    ],
+    "resources": [
+      {
+        "resourceName": "AI Basics",
+        "resourceUrl": "https://www.simplilearn.com/learn-ai-basics-skillup",
+        "resourceType": "Course"
+
+      }, {
+        "resourceName": "Python Programming",
+        "resourceUrl": "https://www.pdfdrive.com/download.pdf?id=168776616&h=4f154daafe4ad5fc8edab88d9a5f57d7&u=cache&ext=pdf",
+        "resourceType": "PDF"
+
+      },{
+        "resourceName": "Artificial Intelligence",
+        "resourceUrl": "https://www.youtube.com/watch?v=0Syf0Gf3rGA",
+        "resourceType": "Video"
+
+      }
+    ],
+    "lessons": [
+      {
+        "lessonData": {
+          "name": "UI Designing",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.coursera.org/specializations/user-interface-design"
+        }
+      },{
+        "lessonData": {
+          "name": "UI/UX Designing",
+          "duration": "21 Hours",
+          "description": "Making great UI",
+          "lessonLink": "https://www.coursera.org/specializations/ui-ux-design"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Wireframing",
+          "duration": "9 Hours",
+          "description": "Build and deploy wireframes",
+          "lessonLink": "https://www.coursera.org/learn/wireframes-low-fidelity-prototypes"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Mockup Designing",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.coursera.org/projects/create-a-mockup-in-figma"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Design Software",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.coursera.org/learn/ux-design-jobs"
+
+        }
+      }
+    ]
+  },
+  {
+    "subjectID": "47 CS 28",
+    "subjectName": "Mobile Application Development",
+    "aboutSubject" : "This is the About Section of the Subject Mobile App Dev",
+    "status": false,
+    "subjectImages": [
+      "https://www.spaceotechnologies.com/wp-content/uploads/2019/08/mobile-app-development-process-2.png",
+      "https://i.pinimg.com/originals/26/fa/d7/26fad7dbf3dd1f39487f57f00e8c57fe.png",
+      "https://delonti.com/wp-content/uploads/2020/08/the-quick-grasp-of-mobile-app-development-in-2019-and-trend-in-2020.png",
+      "https://www.aismobileapps.com/img/mobile-app-development.jpg"
+    ],
+    "resources": [
+      {
+        "resourceName": "Flutter Basics",
+        "resourceUrl": "https://flutter.dev",
+        "resourceType": "Docs"
+
+      }, {
+        "resourceName": "Dart Basics",
+        "resourceUrl": "https://dart.dev",
+        "resourceType": "Docs"
+
+      },{
+        "resourceName": "Artificial Intelligence",
+        "resourceUrl": "https://www.youtube.com/watch?v=0Syf0Gf3rGA",
+        "resourceType": "Video"
+
+      }
+    ],
+    "lessons": [
+      {
+        "lessonData": {
+          "name": "Requirements Specification",
+          "duration": "12 Hours",
+          "description": "This is how we Develop the Quantum Models with Open CV",
+          "lessonLink": "https://www.coursera.org/learn/requirements-specification-goals?"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Idea Formulation",
+          "duration": "3 Hours",
+          "description": "Fundamentals of Physics",
+          "lessonLink": "https://lizard.global/blog/7-questions-to-ask-yourself-before-having-your-app-developed"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Coding",
+          "duration": "9 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.simplilearn.com/learn-programming-basics-free-course-skillup?referrer=search&tag=programming"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Flutter Development",
+          "duration": "19 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://flutter.dev"
+
+        }
+      },{
+        "lessonData": {
+          "name": "Rules to Follow",
+          "duration": "2 Hours",
+          "description": "This is how we Develop the AI Models with Open CV",
+          "lessonLink": "https://www.perforce.com/resources/qac/coding-standards"
+
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657990083460",
+    "project_id": "icare-f5ff5",
+    "storage_bucket": "icare-f5ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657990083460:android:a1886e2692837eada773d1",
+        "android_client_info": {
+          "package_name": "com.icare.stackapps.mlombwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657990083460-52gg21ivoc2flkfqndjmjt9q8bk0qc36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjp9X_8qXAyEPTagzBx5ndiw-H6ISako"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657990083460-52gg21ivoc2flkfqndjmjt9q8bk0qc36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
