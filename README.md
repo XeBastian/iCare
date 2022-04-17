@@ -63,3 +63,13 @@ Like : ```git push origin add-word-documentation```
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a ```Compare & pull request``` button. Click on that button.
+
+Create the Pull Request and wait for a Review
+
+___________________________
+## NOTICE
+    * Make double sure that your Code works before pushing to GitHub
+    * Always be consistent with the Code styling
+    * Always finish the task you have been assigned to
+    * If in case you do not finish, Alert the team in time
+    * The Master Branch is for the final Product. DO not Push Directly to it(It wont work or Will be ignored)
